@@ -1,0 +1,17 @@
+ion-content{
+ background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);
+}
+h2 {
+  text-align: center;
+  color: #ffffff;
+}
+
+p {
+  text-align: center;
+  font-family: Geneva, Verdana, ;
+  color: #ffffff;
+}
+
+ion-item {
+  background: #ffffff;
+}
